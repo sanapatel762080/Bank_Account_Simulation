@@ -21,14 +21,6 @@ This project demonstrates **OOP principles** such as classes, objects, encapsula
 
 ---
 
-## 📂 Project Structure
-├── Account.java # Represents a single bank account
-├── Bank.java # Manages accounts for the bank
-├── Main.java # Contains menu and user interaction logic
-└── README.md # Project documentation
-
-
----
 
 ##  Class Overview
 
@@ -60,8 +52,6 @@ This project demonstrates **OOP principles** such as classes, objects, encapsula
     javac Main.java
 4. Run the program:
     java Main
-
-📋 Sample Menu
 
 ## Author : Sana Patel
 - Java Developer in training, passionate about building real-world applications using core Java concepts.
